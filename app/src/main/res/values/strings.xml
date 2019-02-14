@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="top">Top</string>
+    <string name="botto">Botto</string>
+    <string name="bottom">Bottom</string>
+    <string name="button">Button</string>
+    <string name="right_below_top">right below top</string>
+    <string name="left_above_bottom">left above bottom</string>
 </resources>
